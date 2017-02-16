@@ -1,11 +1,13 @@
 # P3-Behavioral-Cloning
 Third project submission at Udacity Self Driving Nanodegree program - training neural network using Keras to close driver behavioral 
 
+Simulator is not included, download it at : https://github.com/udacity/self-driving-car-sim
+
 ### Instructions ###
 
 Plug and pray (play) evaluation instructions :
 
-	1. start Udactiy Self Driving Car simulator, available at https://github.com/udacity/self-driving-car-sim
+	1. start Udactiy Self Driving Car simulator
 	2. choose any track - works for both. Actually little better even for second track.
 	3. execute in terminal :                                       python drive.py model.json
 	   optional set throttle, recomended 1 for faster experience : python drive.py model.json 1
