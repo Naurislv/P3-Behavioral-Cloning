@@ -2,6 +2,7 @@
 Third project submission at Udacity Self Driving Nanodegree program - training neural network using Keras to close driver behavioral 
 
 Simulator is not included, download it at : https://github.com/udacity/self-driving-car-sim
+Result video link : https://www.youtube.com/watch?v=dtxsSOoHhQQ
 
 ### Instructions ###
 
